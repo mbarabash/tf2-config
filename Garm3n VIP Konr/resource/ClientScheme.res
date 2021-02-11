@@ -2288,6 +2288,18 @@ Scheme
 			}
 		}
 
+		"NumbersMedium21OT"
+		{
+			"1"
+			{
+				"name"		"NovecentoNumbersMedium"
+				"tall"		"21"
+				"additive"		"0"
+				"antialias"	"1"
+				"outline"		"1"
+			}
+		}
+
 		"NumbersMedium15"
 		{
 			"1"
