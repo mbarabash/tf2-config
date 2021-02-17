@@ -7,9 +7,9 @@ Changes log:
 - Custom particles are the green medic particles and stickybomb outlines.
 - Installed Rainbow Konr Crosshair
 
-### 2/12/2021
+#### 2/12/2021
 - Defined font "NumbersMedium21OT" in ClientScheme.res
 - Changed values of "delta_item_font" and "delta_item_font_big" under CDamageAccountPanel in HudDamageAccount.res
 
-### 2/17/2021
+#### 2/17/2021
 - Added rollout config (exec rollout)
