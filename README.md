@@ -13,3 +13,9 @@ Changes log:
 
 #### 2/17/2021
 - Added rollout config (exec rollout)
+
+#### 7/18/2021
+- Added server commands to cfg
+- Changed sensitivities
+- Added b4nny bind to medic class
+- Unbinded mouse2 on scout and soldier
