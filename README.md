@@ -19,3 +19,6 @@ Changes log:
 - Changed sensitivities
 - Added b4nny bind to medic class
 - Unbinded mouse2 on scout and soldier
+
+#### 9/15/2021
+- Added vtf crosshairs
