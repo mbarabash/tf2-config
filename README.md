@@ -21,4 +21,7 @@ Changes log:
 - Unbinded mouse2 on scout and soldier
 
 #### 9/15/2021
-- Added vtf crosshairs
+- Added vtf crosshairs, crosshair "" must be set to active to view
+
+#### 9/16/2021
+- Removed Health Animation (health changing colors when overhealed/low)
