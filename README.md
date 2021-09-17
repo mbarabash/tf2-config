@@ -25,3 +25,7 @@ Changes log:
 
 #### 9/16/2021
 - Removed Health Animation (health changing colors when overhealed/low)
+
+#### 9/17/2021
+- Updated Health on top of screen to be larger
+- Soldier and Demoman crosshair colors updated
